@@ -124,10 +124,10 @@ In conclusion, Baisakhi AI has the potential to revolutionize the way farmers ma
 # Screenshots
 ![ScreenShot 1](https://github.com/navinajk/Baisakhi.ai/blob/main/s1.jpg)
 
-![ScreenShot 2](https://github.com/arnavgupta2003/BaisakhiAI/blob/2a52b91d15608cac7fee8e7f9ef8bf009cf6d2ac/s2.jpg)
+![ScreenShot 2](https://github.com/navinajk/Baisakhi.ai/blob/main/s2.jpg)
 
-![ScreenShot 3](https://github.com/arnavgupta2003/BaisakhiAI/blob/2a52b91d15608cac7fee8e7f9ef8bf009cf6d2ac/s3.jpg)
+![ScreenShot 3](https://github.com/navinajk/Baisakhi.ai/blob/main/s3.jpg)
 
-![ScreenShot 4](https://github.com/arnavgupta2003/BaisakhiAI/blob/2a52b91d15608cac7fee8e7f9ef8bf009cf6d2ac/s4.jpg)
+![ScreenShot 4](https://github.com/navinajk/Baisakhi.ai/blob/main/s4.jpg)
 
 <p align=center> --- EOF --- </p>
