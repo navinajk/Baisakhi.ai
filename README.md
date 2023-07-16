@@ -73,7 +73,7 @@ Additionally, We've also included a web-3 based transaction for farmers to buy t
 
 ```console
 # Clone the project
-$> git clone https://github.com/arnavgupta2003/BaisakhiAI.git
+$> git clone https://github.com/navinajk/Baisakhi.ai.git
 
 # Deploy a Python virtual Environment
 $> virtualenv myEnv
